@@ -13,12 +13,12 @@
   margin-inline: 5.3125rem;
   margin-block: 2.5rem;
 }
-.header ul {
+.header .items {
   list-style: none;
   display: flex;
   color: white;
 }
-.header ul li {
+.header .items li {
   padding-inline: 2rem;
 }
 .header .menu {
