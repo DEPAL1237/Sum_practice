@@ -14,12 +14,12 @@
   margin-block: 2.5rem;
 }
 .header .items {
-  list-style: none;
   display: flex;
   color: white;
 }
 .header .items li {
   padding-inline: 2rem;
+  list-style: none;
 }
 .header .menu {
   color: white;
